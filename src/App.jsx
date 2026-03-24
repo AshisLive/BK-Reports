@@ -10,14 +10,14 @@ function App() {
         <div className="w-32 h-32 mb-6 rounded-full overflow-hidden shadow-[0_0_30px_rgba(0,0,0,0.6)]">
           <img 
             src={logo} 
-            alt="BK-Reports Logo" 
+            alt="Dubai King Logo" 
             className="w-full h-full object-cover"
           />
         </div>
 
         {/* Header */}
         <h1 className="text-2xl font-bold text-white text-center mb-4 tracking-wide uppercase flex items-center gap-2">
-          BK REPORTS™ <span className="text-2xl">🔥</span>
+          DUBAI KING™ <span className="text-2xl">🔥</span>
         </h1>
         
         {/* Description */}
