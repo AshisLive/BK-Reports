@@ -17,7 +17,7 @@ function App() {
 
         {/* Header */}
         <h1 className="text-2xl font-bold text-white text-center mb-4 tracking-wide uppercase flex items-center gap-2">
-          DUBAI KING™ <span className="text-2xl">🔥</span>
+          DUBAI KING™ <span className="text-2xl">👑</span>
         </h1>
         
         {/* Description */}
