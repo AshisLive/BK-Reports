@@ -28,7 +28,7 @@ function App() {
         </p>
 
         {/* Features List */}
-        <div className="w-full mb-8 space-y-3 px-2">
+        <div className="w-fit mx-auto mb-8 space-y-3 px-2 flex flex-col items-start">
            <div className="flex items-center space-x-2 text-gray-200">
               <span className="text-white text-sm">✔</span>
               <span className="text-[14.5px] font-light tracking-wide">No spam, only genuine updates</span>
