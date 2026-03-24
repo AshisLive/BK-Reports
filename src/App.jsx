@@ -7,7 +7,7 @@ function App() {
       <main className="w-full max-w-sm sm:max-w-[26rem] bg-gradient-to-b from-[#2B3544] to-[#1F2735] rounded-3xl p-8 flex flex-col items-center shadow-2xl border border-gray-700/30">
         
         {/* Logo */}
-        <div className="w-32 h-32 mb-6 rounded-full overflow-hidden shadow-[0_0_30px_rgba(0,0,0,0.6)]">
+        <div className="w-44 h-44 sm:w-52 sm:h-52 mb-2 rounded-2xl overflow-hidden shadow-[0_0_25px_rgba(0,0,0,0.5)]">
           <img 
             src={logo} 
             alt="Dubai King Logo" 
